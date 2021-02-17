@@ -5,9 +5,7 @@
 
 Hi, i'm Aknur👋
 
-Here are some ideas to get you started:
 
-Unknown
 
 🔭 I’m currently working on Projects
 🌱 I’m currently learning IOS
