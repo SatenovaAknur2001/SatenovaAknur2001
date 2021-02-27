@@ -1,4 +1,4 @@
-### IOS Developer👋
+### IOS Dev👋
 
 
 Hi, i'm Aknur👋
